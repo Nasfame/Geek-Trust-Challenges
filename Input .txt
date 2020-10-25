@@ -1,0 +1,9 @@
+ADD_CHILD Anga Pjali Female
+ADD_CHILD Pjali Srutak Male
+ADD_CHILD Pjali Srutaki Female
+ADD_CHILD Pjali Sru Male
+ADD_CHILD Pjali Sritak Female
+ADD_CHILD Sritak Pinky Female
+GET_RELATIONSHIP Pjali Son
+GET_RELATIONSHIP Pjali Duaghter
+GET_RELATIONSHIP Srutak Sibling
